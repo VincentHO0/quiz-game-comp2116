@@ -1,8 +1,8 @@
 # Quiz Game Project  
 
 ## Graphical Abstract  
- [Doc1.pdf](https://github.com/user-attachments/files/19830958/Doc1.pdf)
- 
+ [picture.pdf](https://github.com/user-attachments/files/19830988/picture.pdf)
+
 
 ## Purpose  
 - **Software Type**: Desktop quiz game for educational purposes.  
