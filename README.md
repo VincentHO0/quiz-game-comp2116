@@ -1,7 +1,8 @@
 # Quiz Game Project  
 
 ## Graphical Abstract  
-![Game Screenshot](assets/screenshot.png) *(Take a screenshot during gameplay)*  
+ [Doc1.pdf](https://github.com/user-attachments/files/19830958/Doc1.pdf)
+ 
 
 ## Purpose  
 - **Software Type**: Desktop quiz game for educational purposes.  
